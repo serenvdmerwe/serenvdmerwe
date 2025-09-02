@@ -8,7 +8,7 @@
 ##  Current Focus
 - Developing skills in **WordPress block themes**, emphasizing scalability, usability, and performance.  
 - Strengthening knowledge in **front-end development**: HTML, CSS, JavaScript, and theme.json workflows.  
-- Applying an **SEO-first approach** to ensure projects are both user-friendly and discoverable.  
+- Applying an **UI-first approach** to ensure projects are both user-friendly and discoverable.  
 
 ---
 
