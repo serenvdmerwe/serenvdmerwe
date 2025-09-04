@@ -32,10 +32,10 @@ Passionate about:
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress" width="40" height="40"/> 
-  <img src="https://cdn.simpleicons.org/woocommerce/96588A" alt="WooCommerce" width="42" height="40"/> 
-  <img src="https://cdn.brandfetch.io/figma.com/w/40/h/40?c=1idZTokSk_yf1JXz6gN" alt="Figma,com" /> 
   <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="40" height="40"/> 
   <img src="https://cdn.brandfetch.io/visualstudio.com/w/40/h/40/logo?c=1idZTokSk_yf1JXz6gN" alt="visualstudio.com" /> 
+  <img src="https://cdn.brandfetch.io/figma.com/w/40/h/40?c=1idZTokSk_yf1JXz6gN" alt="Figma,com" /> 
+  <img src="https://cdn.brandfetch.io/woocommerce.com/w/155/h/40/logo?c=1idZTokSk_yf1JXz6gN" alt="WooCommerce.com" width="50" height="60" /> 
 
 </p>  
 
