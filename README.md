@@ -52,6 +52,12 @@ Passionate about:
  *Current focus:*  
 > “Learning through mentorship, building through practice.”  
 
+---
+
+<p align="center">
+   <img src="https://cdn.brandfetch.io/lightspeedwp.agency/w/279/h/60/theme/light/logo?c=1idZTokSk_yf1JXz6gN" alt="lightspeedwp.agency" />
+
+</p>  
 
 <!--
 **serenvdmerwe/serenvdmerwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
