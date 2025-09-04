@@ -1,5 +1,8 @@
-<h align="center">
-# 👋 Hi, I’m Seren  
+<p align="center">
+    👋 Hi, I’m Seren  
+</p>
+
+---
 
 💼 **WordPress Block Themes Intern @ Lightspeed**  
 🌱 Beginner in tech — learning through mentorship, building through practice.  
