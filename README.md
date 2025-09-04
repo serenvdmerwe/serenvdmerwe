@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
     👋 Hi, I’m Seren  
-</p>
+</h1>
 
 ---
 
