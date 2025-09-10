@@ -28,6 +28,10 @@ Passionate about:
 
 ---
 
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/serenvdmerwe/)
+
+
+---
 ## 🛠️ Toolbox
 
 <p align="left">
