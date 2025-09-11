@@ -45,6 +45,18 @@ Passionate about:
 
 ---
 
+## 📊 GitHub Insights  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=serenvdmerwe&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=ff7b72&border_color=30363d)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=serenvdmerwe&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=34d058&sideNums=c9d1d9&currStreakNum=79c0ff&dates=8b949e&sideLabels=58a6ff&border=30363d)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serenvdmerwe&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d)  
+
+
+
+---
+
 ## 🎯 Beginner Goals
 - Build my first **WordPress block theme** from scratch.  
 - Understand **theme.json** workflows and modern WordPress standards.  
