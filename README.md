@@ -1,6 +1,6 @@
-<h1 align="center">
-    👋 Hi, I’m Seren  
-</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Seren-%230d1117.svg?&style=for-the-badge&logo=github&logoColor=white" width="260"/>
+</p>
 
 ---
 
