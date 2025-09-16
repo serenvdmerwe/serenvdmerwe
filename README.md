@@ -21,10 +21,15 @@
 I’m starting my journey in tech with a focus on **WordPress**, **front-end development**, and **digital experiences**.  
 I enjoy learning by doing, growing through mentorship, and contributing to projects that matter.  
 
-Passionate about:
-- 🎨 User-friendly design  
-- 🔍 Being Learnered  
-- 🤝 Collaborative development  
+<div align="center">
+
+```yaml
+# 💡 Passionate about
+- 🎨 User-friendly design
+- 🔍 Being Learnered
+- 🤝 Collaborative development
+```
+</div>
 
 ---
 
