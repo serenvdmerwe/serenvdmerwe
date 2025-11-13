@@ -4,8 +4,7 @@
 
 ---
 
-💼 **Multi Stack Ai Developer | Code, Copy, and Conversion  | Performance, SEO, and UX | Minimalist Build Forward**  
-🌱 Beginner in tech — learning through mentorship, building through practice.  
+🌱 **Multi Stack Ai Developer | Code, Copy, and Conversion  | Performance, SEO, and UX | Minimalist Build Forward** 🌱
 
 ---
 
@@ -17,17 +16,16 @@
 
 ---
 
-## ✨ About Me
-I’m starting my journey in tech with a focus on **WordPress**, **front-end development**, and **digital experiences**.  
-I enjoy learning by doing, growing through mentorship, and contributing to projects that matter.  
-
 <div align="center">
 
 ```yaml
-# 💡 Passionate about
-- 🎨 User-friendly design
-- 🔍 Being Learnered
-- 🤝 Collaborative development
+# 💡 About Me
+
+- 🔍 Being Learnered and Hungry to Know Different and New Forms of Doing
+- ✨ Emphatic on Diverse Tool Development Methods
+- 🌀 Creative Design and UX is a Joy for me
+- 💼 Working in Development for me is a form of Art and Expression
+- ➰ Coding is in our DNA as Mathematics
 ```
 </div>
 
