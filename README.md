@@ -37,18 +37,6 @@ I enjoy learning by doing, growing through mentorship, and contributing to proje
 
 
 ---
-## 🛠️ Toolbox
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress" width="50" height="50"/> 
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="50" height="50"/> 
-  <img src="https://cdn.brandfetch.io/visualstudio.com/w/40/h/40/logo?c=1idZTokSk_yf1JXz6gN" alt="Visual Studio" width="50" height="50"/> 
-  <img src="https://cdn.brandfetch.io/figma.com/w/40/h/40?c=1idZTokSk_yf1JXz6gN" alt="Figma" width="50" height="50"/> 
-  <img src="https://cdn.brandfetch.io/woocommerce.com/w/155/h/40/logo?c=1idZTokSk_yf1JXz6gN" alt="WooCommerce" width="60" height="60"/> 
-
-</div>
-
----
 
 ## 📊 GitHub Insights  
 
@@ -61,20 +49,10 @@ I enjoy learning by doing, growing through mentorship, and contributing to proje
 </div>
 
 
-
-
----
-
-## 🎯 Beginner Goals
-- Build my first **WordPress block theme** from scratch.  
-- Understand **theme.json** workflows and modern WordPress standards.  
-- Strengthen my **front-end coding skills** in HTML, CSS, and JavaScript.  
-- Contribute to open-source projects and learn through collaboration.  
-
 ---
 
  *Current focus:*  
-> “Learning through mentorship, building through practice.”  
+> “Building future forward projects, with old school principles.”
 
 ---  
 
