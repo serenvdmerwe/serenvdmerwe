@@ -2,9 +2,9 @@
   <img src="https://img.shields.io/badge/Seren-%230d1117.svg?&style=for-the-badge&logo=github&logoColor=white" width="260"/>
 </p>
 
----
-
-🌱 **Multi Stack Ai Developer | Code, Copy, and Conversion  | Performance, SEO, and UX | Minimalist Build Forward** 🌱
+<p align="center">
+   🌱Multi Stack Ai Developer | Code, Copy, and Conversion  | Performance, SEO, and UX | Minimalist Build Forward🌱
+</p>  
 
 ---
 
