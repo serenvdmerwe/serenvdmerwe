@@ -40,8 +40,6 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=serenvdmerwe&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=ff7b72&border_color=30363d" height="180px"/>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serenvdmerwe&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d" height="180px"/>
 
 </div>
