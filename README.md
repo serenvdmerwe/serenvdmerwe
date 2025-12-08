@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   🌱Multi Stack Ai Developer | Code, Copy, and Conversion  | Performance, SEO, and UX | Minimalist Build Forward🌱
+   🌱Founder | Multi Stack Ai Developer | Code, Copy, and Conversion  | Performance, SEO, and UX | Minimalist Build Forward🌱
 </p>  
 
 ---
@@ -36,21 +36,12 @@
 
 ---
 
-## 📊 GitHub Insights  
+## Current focus:
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serenvdmerwe&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d" height="180px"/>
-
-</div>
-
+> “ Developing innovative AI and NON AI solutions in the Web Development Sector specifining in the development of WordPress themes and plugins, and AI-driven logistic. I do so love to trial new solutions as my past time.”
 
 ---
-
- *Current focus:*  
-> “Building future forward projects, with old school principles.”
-
----  
+  
 
 <!--
 **serenvdmerwe/serenvdmerwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
