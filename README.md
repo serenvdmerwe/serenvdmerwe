@@ -38,7 +38,7 @@
 
 ## Current focus:
 
-> “ Developing innovative AI and NON AI solutions in the Web Development Sector specifining in the development of WordPress themes and plugins, and AI-driven logistic. I do so love to trial new solutions as my past time.”
+> “ Developing innovative AI and NON AI solutions in the Web Development Sector specifing in the development of WordPress themes and plugins, and AI-driven logistic. I do so love to trial new solutions as my past time.”
 
 ---
   
