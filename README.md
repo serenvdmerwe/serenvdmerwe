@@ -1,12 +1,14 @@
-<hr>
+<p align="center">
 <img src = "https://github-widgetbox.vercel.app/api/profile?username=serenvdmerwe&data=repositories,commits&theme=rgb">
-<hr>
+</p>
+
+---
 
 <p align="center">
    🌱Founder | Multi Stack Ai Developer | Code, Copy, and Conversion  | Performance, SEO, and UX | Minimalist Build Forward🌱
 </p>  
 
-###
+---
 
 <p align="center">
   <picture>
@@ -16,7 +18,6 @@
   </picture>
 </p>
   
-
 ---
 
 <div align="center">
