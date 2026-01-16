@@ -1,18 +1,10 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Seren-%230d1117.svg?&style=for-the-badge&logo=github&logoColor=white" width="260"/>
-</p>
-
-<p align="center">
-   🌱Founder | Multi Stack Ai Developer | Code, Copy, and Conversion  | Performance, SEO, and UX | Minimalist Build Forward🌱
-</p>  
-
----
-
 <hr>
 <img src = "https://github-widgetbox.vercel.app/api/profile?username=serenvdmerwe&data=repositories,commits&theme=rgb">
 <hr>
 
----
+<p align="center">
+   🌱Founder | Multi Stack Ai Developer | Code, Copy, and Conversion  | Performance, SEO, and UX | Minimalist Build Forward🌱
+</p>  
 
 ###
 
@@ -48,8 +40,6 @@
 
 ---
 
-  
-
 <!--
 **serenvdmerwe/serenvdmerwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -64,3 +54,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Seren-%230d1117.svg?&style=for-the-badge&logo=github&logoColor=white" width="260"/>
+</p>
