@@ -9,7 +9,7 @@
 ---
 
 <hr>
-<img src = "https://github-widgetbox.vercel.app/api/profile?username=serenvdmerwe&data=repos,commits&theme=radical">
+<img src = "https://github-widgetbox.vercel.app/api/profile?username=serenvdmerwe&data=repositories,commits&theme=rgb">
 <hr>
 
 ---
