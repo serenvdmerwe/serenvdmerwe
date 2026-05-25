@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-   🌱Founder | Multi Stack Ai Developer | Code, Copy, and Conversion  | Performance, SEO, and UX | Minimalist Build Forward🌱
+   🌱Founder | Code, Copy, and Connection | Minimalist Build Forward🌱
 </p>  
 
 ---
