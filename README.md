@@ -32,15 +32,15 @@
 - ➰ Coding is in our DNA as Mathematics
 ```
 </div>
----
-## 3D Contribution Calendar 
 
-<br>
+---
+
+## Contribution Calendar 
+
 <p align='center'>
-<img src="./profile-3d-contrib/profile-night-green.svg">
+<img src="./github/workflows/profile-night-green.svg">
 </p>
-<hr>
-<br>
+
 ---
 
 ## Current focus:
