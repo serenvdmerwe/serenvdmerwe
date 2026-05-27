@@ -38,7 +38,7 @@
 ## Contribution Calendar 
 
 <p align='center'>
- <img src="./github/workflows/profile-night-green.svg">
+ <img src="./.github/workflows/profile-night-green.svg">
 </p>
 
 ---
